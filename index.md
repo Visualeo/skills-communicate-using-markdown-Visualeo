@@ -15,9 +15,18 @@ This is a heading 3
 
 ```python
 def greet(name):
-    return f"Hello, {name}!"
+    return f"Hello, {name}!" 
 
 print(greet("Visualeo"))
+```
+
+## Task List
+
+- [x] Add headers
+- [x] Add an image
+- [x] Add a code example
+- [ ] Merge pull request
+
 
 
 
